@@ -1,0 +1,19 @@
+{
+  "name": "blue-bus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"cd backend && node server.js\" \"cd frontend && npm start\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-pdf/renderer": "^1.6.8",
+    "concurrently": "^5.2.0",
+    "file-saver": "^2.0.2",
+    "git": "^0.1.5",
+    "react-pdf": "^4.1.0"
+  }
+}

@@ -1,0 +1,24 @@
+.App {
+  /* text-align: center; */
+}
+
+.header{
+  text-align: center;
+}
+
+form{
+  /* display: inline-grid; */
+  margin: 0px auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.img{
+  height: 450px;
+  width: 400px;
+}
+
+body{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+padding-top: 5%;  
+}

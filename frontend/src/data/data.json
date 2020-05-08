@@ -1,0 +1,93 @@
+[
+  {
+    "_id": "5ea6ce2a30c72f946b1730e3",
+    "index": 0,
+    "from": "Bengaluru",
+    "to": "Channai",
+    "date": "05/01/2020",
+    "busType" : "Sleeper Coach",
+    "fare" : "799"
+  },
+  {
+    "_id": "5ea6ce2a58dc1510b6720510",
+    "index": 1,
+    "from": "Channai",
+    "to": "Bengaluru",
+    "date": "05/02/2020",
+    "busType" : "Sleeper Coach",
+    "fare" : "799"
+
+  },
+  {
+    "_id": "5ea6ce2ae53775e56e44c593",
+    "index": 2,
+    "from": "Bengaluru",
+    "to": "Mumbai",
+    "date": "05/01/2020",
+    "busType" : "Sleeper Coach",
+    "fare" : "799"
+  },
+  {
+    "_id": "5ea6ce2a06e5b3b43bd8b6e1",
+    "index": 3,
+    "from": "Mumbai",
+    "to": "Bengaluru",
+    "date": "05/02/2020",
+    "busType" : "Sleeper Coach",
+    "fare" : "799"
+  },
+  {
+    "_id": "5ea6ce2acd7e228a6c1ddf24",
+    "index": 4,
+    "from": "Bengaluru",
+    "to": "Channai",
+    "date": "05/01/2020",
+    "busType" : "Ac Bus",
+    "fare" : "1210"
+  },
+  {
+    "_id": "5ea6ce2aa3c75ec4fc0ad442",
+    "index": 5,
+    "from": "Channai",
+    "to": "Delhi",
+    "date": "05/01/2020",
+    "busType" : "Sleeper Coach",
+    "fare" : "799"
+  },
+  {
+    "_id": "5ea6ce2aef1e5a55260c0a2a",
+    "index": 6,
+    "from": "Delhi",
+    "to": "Bengaluru",
+    "date": "05/01/2020",
+    "busType" : "Sleeper Coach",
+    "fare" : "799"
+  },
+  {
+    "_id": "5ea6ce2a1f321bd5188bc8b4",
+    "index": 7,
+    "from": "Bengaluru",
+    "to": "Channai",
+    "date": "05/01/2020",
+    "busType" : "Multi A/C",
+    "fare" : "1500"
+  },
+  {
+    "_id": "5ea6ce2a059872a6002cccc8",
+    "index": 8,
+    "from": "Pune",
+    "to": "Bengaluru",
+    "date": "05/01/2020",
+    "busType" : "Sleeper Coach",
+    "fare" : "799"
+  },
+  {
+    "_id": "5ea6ce2a4fb7ee7cdd95f110",
+    "index": 9,
+    "from": "Bengaluru",
+    "to": "Pune",
+    "date": "05/01/2020",
+    "busType" : "Sleeper Coach",
+    "fare" : "799"
+  }
+]
